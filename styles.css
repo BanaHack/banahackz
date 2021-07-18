@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(253, 255, 247);
+}
+.logo{
+    max-width: 15%;
+    height: auto;
+}
+.thumbnail{
+    max-width: 30vw;
+    height: auto;
+}
+blockquote{
+    max-width: 10%;
+}
